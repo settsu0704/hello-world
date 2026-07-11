@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "software Eng. lecture note
+title: "software Eng. lecture note"
 permalink: /docs/softwareEng2026
 ---
 
 
 
-# ソフトウェア工学第11回課題
+# ソフトウェア工学最終課題
 
 ### 第1.2回授業
 ソフトウェアの定義とは
